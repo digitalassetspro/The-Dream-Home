@@ -1,0 +1,6 @@
+{
+  "name": "The Dream Homes - Construction Company",
+  "description": "Premium construction company in Chennai, Tiruvallur, and Kanchipuram. Residential & commercial construction, interiors, and renovations from ₹2,349/sq.ft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
